@@ -6,3 +6,4 @@ puts "Hi! I'm HAl, what's your name?"
 puts "Plz entr ur name:"
 name = gets.chomp
 greeting(name)
+puts "Hello Don. It's nice to meet you."
